@@ -1,0 +1,225 @@
+C:/Modeltech_pe_edu_10.4a/examples/mux.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/mux.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux16
+
+Top level modules:
+	mux16
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/sequence101010.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/sequence101010.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module seq_1
+
+Top level modules:
+	seq_1
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/RippleCarry.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/RippleCarry.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module adder4
+-- Compiling module fulladder
+
+Top level modules:
+	adder4
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/sr_latchtb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/sr_latchtb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module latchtest
+
+Top level modules:
+	latchtest
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/serialtb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/serialtb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module add23
+
+Top level modules:
+	add23
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/Adder16bit.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Adder16bit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Alu
+-- Compiling module adder4
+
+Top level modules:
+	Alu
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/Arithmatic.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Arithmatic.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Alu
+
+Top level modules:
+	Alu
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/multiplytb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/multiplytb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Mul_test
+
+Top level modules:
+	Mul_test
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/D_Latch.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/D_Latch.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sensitive_latch
+
+Top level modules:
+	sensitive_latch
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/seqtb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/seqtb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module stb
+
+Top level modules:
+	stb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/lamptb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/lamptb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module lptb
+
+Top level modules:
+	lptb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/muxtb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/muxtb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module muxtest
+
+Top level modules:
+	muxtest
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/mux16_1_v2.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/mux16_1_v2.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux4to1
+-- Compiling module mux16to1
+
+Top level modules:
+	mux16to1
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/serialadd.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/serialadd.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module serial
+
+Top level modules:
+	serial
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/Parity.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Parity.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module parity
+
+Top level modules:
+	parity
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/Priorityencoder.v {2 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Priorityencoder.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module pe
+** Warning: C:/Modeltech_pe_edu_10.4a/examples/Priorityencoder.v(30): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	pe
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/ripplecarrytb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/ripplecarrytb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ripple
+
+Top level modules:
+	ripple
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/Adder16bit_tb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Adder16bit_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alutest2
+
+Top level modules:
+	alutest2
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/seq0110.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/seq0110.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module seq
+
+Top level modules:
+	seq
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/ArithmaticTb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/ArithmaticTb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module alutst
+
+Top level modules:
+	alutst
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/D_latchtb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/D_latchtb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module dlatchtest
+
+Top level modules:
+	dlatchtest
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/CYCLIC.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/CYCLIC.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module lamp
+
+Top level modules:
+	lamp
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/latchtst.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/latchtst.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module latchtest
+
+Top level modules:
+	latchtest
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/mux16_1tb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/mux16_1tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mux1test
+
+Top level modules:
+	mux1test
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/Priorityencodertb.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/Priorityencodertb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module prioritytest
+
+Top level modules:
+	prioritytest
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/SR_Latch.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/SR_Latch.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sr_latch
+
+Top level modules:
+	sr_latch
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/seqtb1.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/seqtb1.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module s1tb
+
+Top level modules:
+	s1tb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/multiply.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/multiply.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module Muldatapath
+-- Compiling module pipo1
+-- Compiling module Add
+-- Compiling module pipo2
+-- Compiling module EQZ
+-- Compiling module Cntr
+-- Compiling module controller
+
+Top level modules:
+	Muldatapath
+	controller
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/paritytest.v {1 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/paritytest.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module ptb
+
+Top level modules:
+	ptb
+
+} {} {}} C:/Modeltech_pe_edu_10.4a/examples/srlatch.v {2 {vlog -work work -stats=none C:/Modeltech_pe_edu_10.4a/examples/srlatch.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module srltch
+** Warning: C:/Modeltech_pe_edu_10.4a/examples/srlatch.v(6): (vlog-2283) Extra semicolon in $unit (global) scope.
+
+
+Top level modules:
+	srltch
+
+} {} {}}
