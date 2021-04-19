@@ -1,3 +1,6 @@
+// This is implementation of Synchronous FIFO with all the flags.
+// Test Bench to this projrct is named as "fifotb.v"
+
 module FIFO_Sync (
     input clk,
     input [31:0] d_in ,
